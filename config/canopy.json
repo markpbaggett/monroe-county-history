@@ -4,6 +4,7 @@
   "featured": [
     "https://cdm17217.contentdm.oclc.org/iiif/maps:730/manifest.json"
   ],
+  "metadata": ["Date", "Item Creator"],
   "summary": {
     "none": ["Aggregated documents from around the web"]
   }
