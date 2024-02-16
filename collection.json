@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://gist.githubusercontent.com/markpbaggett/a6919ff5d41ead237f4867c40b8a7970/raw/2556761a665d8214581e3500e07910fd82eb6e10/manifest.json",
+  "id": "https://raw.githubusercontent.com/markpbaggett/monroe-county-history/main/collection.json",
   "type": "Collection",
   "label": {
     "en": [

@@ -1,6 +1,6 @@
 {
-  "collection": "https://gist.githubusercontent.com/markpbaggett/a6919ff5d41ead237f4867c40b8a7970/raw/de47ef49d3567d37e69ccb111ca69f5dd42eb4cd/manifest.json",
-  "devCollection": "https://gist.githubusercontent.com/markpbaggett/a6919ff5d41ead237f4867c40b8a7970/raw/de47ef49d3567d37e69ccb111ca69f5dd42eb4cd/manifest.json",
+  "collection": "https://raw.githubusercontent.com/markpbaggett/monroe-county-history/main/collection.json",
+  "devCollection": "https://raw.githubusercontent.com/markpbaggett/monroe-county-history/main/collection.json",
   "featured": [
     "https://cdm17217.contentdm.oclc.org/iiif/maps:730/manifest.json"
   ],
